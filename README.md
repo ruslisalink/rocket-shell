@@ -13,3 +13,12 @@ help
 ...and get a list of available commands.
 
 This application is written in Python.
+
+##OR
+
+##Run from Python (Windows / Linux / macOS)
+Requires Python 3.10+.
+
+1. Download `source.py`.
+2. Open a terminal in the folder.
+3. Run:
