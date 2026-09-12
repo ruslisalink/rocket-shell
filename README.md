@@ -16,5 +16,5 @@ help
 Requires Python 3.10+.
 
 1. Download `source.py`.
-2. Open a terminal in the folder.
-3. Run:
+2. Open a terminal in the folder with the "source.py".
+3. type "python source.py"
