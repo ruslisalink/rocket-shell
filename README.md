@@ -1,6 +1,15 @@
-rocket-shell
-Unified Windows/Linux command line shell with WSL integration, path bridging, aliases, history, pipes, chains.
+# rocket-shell
 
-How to use? just download exe file from releases, and start him! type "help" and get list of commands!
+Unified Windows/Linux command line shell with WSL integration, path bridging, aliases, history, pipes, and command chains.
+
+## How to use?
+
+Just download the `.exe` file from Releases and start it!
+
+Then type:
+
+help
+
+...and get a list of available commands.
 
 This application is written in Python.
