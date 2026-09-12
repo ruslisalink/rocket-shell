@@ -14,7 +14,7 @@ help
 
 This application is written in Python.
 
-##OR
+## OR
 
 ##Run from Python (Windows / Linux / macOS)
 Requires Python 3.10+.
