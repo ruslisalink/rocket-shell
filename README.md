@@ -12,8 +12,6 @@ help
 
 ...and get a list of available commands.
 
-## OR
-
 ## Run from Python (Windows / Linux / macOS)
 Requires Python 3.10+.
 
